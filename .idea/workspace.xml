@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27166d92-a02b-4a6a-a129-8316fafe3535" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>div1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\gongju\localRepository" />
+        <option name="mavenHome" value="D:\gongju\apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\gongju\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j8pGrxFaDYspmcN8BRh80wPqlu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603194603212" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ideaproject/citylife" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaworkspace_2018_2020s实训\cityLife\src\main\webapp" />
+      <recent name="E:\ideaworkspace_2018_2020s实训\cityLife\src\main\webapp\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaworkspace_2018_2020s实训\cityLife\src\main\webapp" />
+      <recent name="E:\ideaworkspace_2018_2020s实训\cityLife\src\main\webapp\resources\images" />
+      <recent name="E:\ideaworkspace_2018_2020s实训\cityLife\src\main\resources" />
+      <recent name="E:\ideaworkspace_2018_2020s实训\cityLife\src\main\webapp\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDB.test01" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="cityLife" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="db" />
+      <option name="MAIN_CLASS_NAME" value="db.TestDB" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27166d92-a02b-4a6a-a129-8316fafe3535" name="Default Changelist" comment="" />
+      <created>1602897758612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602897758612</updated>
+      <workItem from="1602897767025" duration="20688000" />
+      <workItem from="1602925649898" duration="651000" />
+      <workItem from="1603085509352" duration="14896000" />
+      <workItem from="1603154327642" duration="27569000" />
+      <workItem from="1603195482274" duration="39000" />
+      <workItem from="1603195693688" duration="146000" />
+      <workItem from="1603196039278" duration="465000" />
+      <workItem from="1603197922595" duration="775000" />
+      <workItem from="1603198711422" duration="4242000" />
+      <workItem from="1603240610432" duration="251000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交整个项目到github远程仓库">
+      <created>1603099606374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603099606374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交top.jsp 和LogoutServlet到github远程仓库">
+      <created>1603107452294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603107452294</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交top.jsp 和LogoutServlet到github远程仓库">
+      <created>1603107555829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603107555829</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交top.jsp 和LogoutServlet到github远程仓库">
+      <created>1603107639748</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603107639748</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交top.jsp 到github远程仓库">
+      <created>1603107812161</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603107812161</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提交LogOutServlet到github远程仓库">
+      <created>1603107928953</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603107928953</updated>
+    </task>
+    <task id="LOCAL-00007" summary="提交11LogOutServlet到github远程仓库">
+      <created>1603180120762</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603180120762</updated>
+    </task>
+    <task id="LOCAL-00008" summary="提交11LogOutServlet到github远程仓111">
+      <created>1603194297647</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603194297647</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestDB_test01 - 2020.10.17 at 10h 59m 40s.xml">
+      <configuration name="TestDB.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDB_test01 - 2020.10.17 at 11h 00m 54s.xml">
+      <configuration name="TestDB.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDB_test01 - 2020.10.17 at 11h 11m 09s.xml">
+      <configuration name="TestDB.test01" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交整个项目到github远程仓库" />
+    <MESSAGE value="提交top.jsp 和LogoutServlet到github远程仓库" />
+    <MESSAGE value="提交top.jsp 到github远程仓库" />
+    <MESSAGE value="提交LogOutServlet到github远程仓库" />
+    <MESSAGE value="提交11LogOutServlet到github远程仓库" />
+    <MESSAGE value="提交11LogOutServlet到github远程仓111" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交11LogOutServlet到github远程仓111" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1603201777783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603201777783" />
+    <state width="1323" height="165" key="GridCell.Tab.0.bottom" timestamp="1603207087723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603207087723" />
+    <state width="1323" height="165" key="GridCell.Tab.0.center" timestamp="1603207087723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603207087723" />
+    <state width="1323" height="165" key="GridCell.Tab.0.left" timestamp="1603207087723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603207087723" />
+    <state width="1323" height="165" key="GridCell.Tab.0.right" timestamp="1603207087723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603207087723" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1603199936366">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603199936366" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/db/TestDB.java</url>
+          <line>12</line>
+          <properties class="db.TestDB" method="test01">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>cityLife:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cityLife</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3234714" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
