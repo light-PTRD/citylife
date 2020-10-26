@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
+<%@page isELIgnored="false" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -15,13 +16,13 @@
 				<td width="690" height="400" align="left" valign="top"
 					bgcolor="#FFFFFF">
 					<table border="0" width="650" cellspacing="0" cellpadding="0"
-						style="margin-top: 15">
+						style="margin-top: 15px">
 
 						<tr height="20">
-							<td style="text-indent: 5" valign="bottom"><font color="#004790"><b>■查询结果</b></td>
+							<td style="text-indent: 5px" valign="bottom"><font color="#004790"></font><b>■查询结果</b></td>
 						</tr>
 						<tr >
-							<td align="center" style="border: 1 solid">
+							<td align="center" style="border: 1px solid">
 								<table border="0" width="100%" rules="rows" cellspacing="0">
 									<tr align="center" height="30" bgcolor="#F0F0F0">
 										<td width="11%"><b>信息类别</b></td>
@@ -33,11 +34,11 @@
 									<c:forEach items="${list}" var="info">
 										<tr height="30">
 											<td align="center">${info.typeIntro}</td>
-											<td style="text-indent: 10">${info.infoid}</td>
-											<td style="text-indent: 5"><a
-												href="singleShowServlet?infoid=${info.infoid}">${info.infoTitle}</a></td>
-											<td align="center">${info.infodate }</td>
-											<td style="text-indent: 10">${info.infolinkman }</td>
+											<td style="text-indent: 10px">${info.infoId}</td>
+											<td style="text-indent: 5px"><a
+												href="singleShowServlet?infoid=${info.infoId}">${info.infoTitle}</a></td>
+											<td align="center">${info.infoDate }</td>
+											<td style="text-indent: 10px">${info.linkMan }</td>
 										</tr>
 									</c:forEach>
 

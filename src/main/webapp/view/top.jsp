@@ -15,8 +15,8 @@
         <table border="0" width="100%" cellspacing="0" cellpadding="0">
             <!-- 顶部菜单 -->
            <tr height="20">
-                <td style="text-indent:10" valign="bottom">
-                    <a href="" onclick="window.parent.location.href='../admin/addInfo.jsp'" style="color:gray">[发布信息]</a>
+                <td style="text-indent:10px" valign="bottom">
+                    <a href="" onclick="window.parent.location.href='/findAllTypes'" style="color:gray">[发布信息]</a>
                     <a href="" onclick="window.parent.location.href='login.jsp'" style="color:gray">[进入后台]</a>
                 </td>
                 <td align="right" valign="bottom">
@@ -37,43 +37,43 @@
 								<a href="" onclick="window.parent.location.href=''" style="color:white">首&nbsp;&nbsp;&nbsp;&nbsp;页</a></font></td>
 							
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=0" style="color:white" target="default">暂时没有信息</a>
+								<a href="/selectInfoServlet?infotypeid=0" style="color:white" target="default">暂时没有信息</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=1" style="color:white" target="default">招聘信息</a>
+								<a href="/selectInfoServlet?infotypeid=1" style="color:white" target="default">招聘信息</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=2" style="color:white" target="default">培训信息</a>
+								<a href="/selectInfoServlet?infotypeid=2" style="color:white" target="default">培训信息</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=3" style="color:white" target="default">房屋信息</a>
+								<a href="/selectInfoServlet?infotypeid=3" style="color:white" target="default">房屋信息</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=4" style="color:white" target="default">求购信息</a>
+								<a href="/selectInfoServlet?infotypeid=4" style="color:white" target="default">求购信息</a>
 							</td>
 						</tr>
 								
 						<tr align="center">
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=5" style="color:white" target="default">招商引资</a>
+								<a href="/selectInfoServlet?infotypeid=5" style="color:white" target="default">招商引资</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=6" style="color:white" target="default">公寓信息</a>
+								<a href="/selectInfoServlet?infotypeid=6" style="color:white" target="default">公寓信息</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=7" style="color:white" target="default">求职信息</a>
+								<a href="/selectInfoServlet?infotypeid=7" style="color:white" target="default">求职信息</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=8" style="color:white" target="default">家教信息</a>
+								<a href="/selectInfoServlet?infotypeid=8" style="color:white" target="default">家教信息</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=9" style="color:white" target="default">车辆信息</a>
+								<a href="/selectInfoServlet?infotypeid=9" style="color:white" target="default">车辆信息</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=10" style="color:white" target="default">出售信息</a>
+								<a href="/selectInfoServlet?infotypeid=10" style="color:white" target="default">出售信息</a>
 							</td>
 							<td width="100">
-								<a href="selectInfoServlet?infotypeid=11" style="color:white" target="default">寻找启示</a>
+								<a href="/selectInfoServlet?infotypeid=11" style="color:white" target="default">寻找启示</a>
 							</td>    
 						</tr>                      
 					</table>
@@ -81,7 +81,7 @@
                 </td>
             </tr>
         </table>
-        <table border="0" width="100%" height="90" cellspacing="0" cellpadding="0" style="margin-top:1">
+        <table border="0" width="100%" height="90" cellspacing="0" cellpadding="0" style="margin-top:1px">
             <tr><td align="center"><img src="${pageContext.request.contextPath}/resources/images/pcard1.jpg"></td></tr>
         </table>
     </center>

@@ -14,34 +14,34 @@
 			<tr>
 				<td width="690" height="400" align="left" valign="top" bgcolor="#FFFFFF">        
 					<!-- 列表显示免费信息 -->
-					<table width="670" border="0" cellspacing="0" cellpadding="0" style="margin-top:5">
+					<table width="670" border="0" cellspacing="0" cellpadding="0" style="margin-top:5px">
 					
 						<tr height="30">
-							<td style="text-indent:5" valign="bottom"><font color="#004790"><b>■查看详细信息</b></font></td>
+							<td style="text-indent:5px" valign="bottom"><font color="#004790"><b>■查看详细信息</b></font></td>
 						</tr>            
 						<tr height="1">
 							<td></td>
 						</tr>
 						<tr bgcolor="#FAFCF5">
-							<td style="border:1 solid">
+							<td style="border:1px solid">
 								<table border="0" width="100%" cellspacing="0" cellpadding="2" style="font-size:14px;">
 									<tr height="30">
-										<td width="20%" style="text-indent:20">信息类别：</td>
+										<td width="20%" style="text-indent:20px">信息类别：</td>
 										<td>${info.typeIntro }</td>
 									</tr>
 									<tr height="30">
-										<td style="text-indent:20">发布时间：</td>
+										<td style="text-indent:20px">发布时间：</td>
 										<td>${info.infodate }</td>
 									</tr>
 									<tr height="30">
-										<td style="text-indent:20">信息标题：</td>
+										<td style="text-indent:20px">信息标题：</td>
 										<td>${info.infoTitle }</td>
 									</tr>
 									<tr height="30">
-										<td colspan="2" style="text-indent:20">信息内容：</td>
+										<td colspan="2" style="text-indent:20px">信息内容：</td>
 									</tr>
 									<tr height="60">
-										<td colspan="2" style="text-indent:20">${info.infocontent }</td>
+										<td colspan="2" style="text-indent:20px">${info.infocontent }</td>
 									</tr>
 									<tr height="40">
 										<td colspan="2" align="left">

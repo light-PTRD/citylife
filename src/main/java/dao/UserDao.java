@@ -1,7 +1,6 @@
 package dao;
 
 import pojo.User;
-import sun.security.pkcs11.Secmod;
 import util.DBUtil;
 
 import java.sql.Connection;
@@ -169,7 +168,6 @@ public class UserDao {
 
             return  user;
     }
-
 
 
     //根据id修改用户信息

@@ -18,7 +18,7 @@
 							<tr bgcolor="#FAFCF5">
 								<td style="border:1px solid ">
 									<table border="0" width="100%" cellspacing="0" cellpadding="0">
-										 <tr height="23">
+										<%-- <tr height="23">
 											<td width="50%">『<b>求职信息</b>』
 												<a href="${pageContext.request.contextPath}/view/singleshow.jsp">求职信息标题</a>
 											</td>
@@ -48,21 +48,21 @@
 												<a href="${pageContext.request.contextPath}/view/singleshow.jsp">培训信息标题</a></td>
 											<td width="50%">『<b>求购信息</b>』
 												<a href="${pageContext.request.contextPath}/view/singleshow.jsp">求购信息标题</a></td>
-										 </tr>
+										 </tr>--%>
 										 <!-- 为空时，给提示 -->
-									<c:if test="${requestScope.infoList == null}">
+									<c:if test="${infoList==null}">
 			                            <tr height="30"><td align="center" style="border:1px solid">★★★ 缴费后，您发布信息就可在这里显示！★★★</td></tr>
 			                        </c:if>
 			                        <!-- 遍历显示 -->
 									<tr height="23">
-									<c:forEach var="info" items="${requestScope.infoList}" varStatus="status">
+									<c:forEach var="info" items="${infoList}" varStatus="a">
 											<td width="50%">『<b>${info.typeIntro}</b>』
-												<a href="${pageContext.request.contextPath}/singleShowServlet?infoid=${info.id}&payfor=1">${info.infoTitle}</a>
+												<a href="${pageContext.request.contextPath}/singleShowServlet?infoid=${info.infoId}&payfor=1">${info.infoTitle}</a>
 											</td>
 										<!-- 控制每行两个td -->
-										<c:if test="${status.index%2 ne 0}"></tr><tr height="23"></c:if>
+										<c:if test="${a.index%2 == 0}"></tr><tr height="23"></c:if>
 									</c:forEach>
-									</tr>                        
+									</tr>
 									</table>
 								</td>
 							</tr>
@@ -96,7 +96,7 @@
 										 </tr>
 									
 										<tr bgcolor="#FAFCF5">
-											<td style="text-indent:3">★ <a href="${pageContext.request.contextPath}/view/singleshow.jsp">发布求职信息标题</a></td>
+											<td style="text-indent:3px">★ <a href="${pageContext.request.contextPath}/view/singleshow.jsp">发布求职信息标题</a></td>
 										</tr>
 										<tr height="20" bgcolor="#FAFCF5">
 											<td align="right"><a href="${pageContext.request.contextPath}/view/listshow.jsp">更多...</a>&nbsp;&nbsp;</td>

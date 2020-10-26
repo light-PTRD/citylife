@@ -42,12 +42,12 @@
 	</tr>
 
 	<tr height="1"><td></td></tr>
-	<tr height="30"><td style="text-indent:5" valign="bottom"><font color="#004790"><b>■信息快速搜索</b></font></td></tr>
+	<tr height="30"><td style="text-indent:5px" valign="bottom"><font color="#004790"><b>■信息快速搜索</b></font></td></tr>
 	<tr height="1"><td></td></tr>
 	<tr height="103">
 		<td align="center" valign="top" background="../images/leftS.jpg">
 			<table border="0" width="99%" height="100%" cellspacing="0" style="font-size:13px">
-				<form id="info_SearchShow_action" name="info_SearchShow_action" action="../searchInfoServlet" method="post" target="default" onsubmit="return check()">
+				<form id="info_SearchShow_action" name="info_SearchShow_action" action="/searchInfoServlet" method="post" target="default" onsubmit="return check()">
 					<tr height="10"><td colspan="3"></td></tr>
 					<tr>
 						<td align="right" width="70">关键字：</td>
